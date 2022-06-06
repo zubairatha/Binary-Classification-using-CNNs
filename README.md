@@ -22,7 +22,7 @@ Classes are manutd & mancity.
 ## Flask web-app
 
 Run:
-```pip install -r requirements.txt```
+```python run app.py```
 
 ## Result
 
