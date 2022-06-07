@@ -12,6 +12,11 @@ It is a ready-to-run code.
 
 ```jupyter lab TeamClassification.ipynb ``` or ```jupyter notebook TeamClassification.ipynb ```
 
+## Figure out what the CNNs actually see
+
+
+```jupyter lab "CNN Layers.ipynb" ``` or ```jupyter notebook "CNN Layers.ipynb" ```
+
 ## Data
 
 This is a repository containing datasets of 334 training images and testing images downloaded from Google Images. No problematic image.
